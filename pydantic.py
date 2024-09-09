@@ -1,4 +1,4 @@
-from pydantic import Pydantic 
+from pydantic import pydantic
 
 from  pydantic import BaseModel, PositiveInt # type: ignore
 
